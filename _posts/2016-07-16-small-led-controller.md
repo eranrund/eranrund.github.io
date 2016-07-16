@@ -25,6 +25,10 @@ This is a small LED controller I built for Burning Man 2016 as I was tired from 
 
 ## Hardware
 
+
+![Bottom]({{ site.baseurl }}/assets/img/small-led-controller/inside1.jpg)
+![Top]({{ site.baseurl }}/assets/img/small-led-controller/inside2.jpg)
+
 The Eagle design files and code are available [here](https://github.com/eranrund/eagle/tree/master/led-keychain). It's a mess, but I'll get to cleaning it at some point. Maybe after the burn :)
 
 ### Design
