@@ -11,6 +11,8 @@ excerpt_separator: <!--more-->
 
 This is a small LED controller I built for Burning Man 2016 as I was tired from hand-soldering Arduinos, and wanted a more durable solution. There's nothing fancy here, but it's simple, cheap and gets the job done.
 
+Thanks to [Sustainable Magic](http://www.sustainablemagic.org/) for letting me use their space and tools and to [Shlomo Zippel](https://github.com/shlomozippel) for ideas and pattern code.
+
 <!--more-->
 
 ## Features
