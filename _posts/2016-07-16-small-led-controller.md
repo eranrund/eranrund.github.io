@@ -3,15 +3,14 @@ layout: post
 title:  "Small addressable LED strip controller"
 tags: [burning-man, electronics]
 date: 2016-07-16 02:00:00 -0700
+excerpt_separator: <!--more-->
 ---
-
-## What is this?
 
 ![LED Controller]({{ site.baseurl }}/assets/img/small-led-controller/controller.jpg)
 ![LED Controller being used]({{ site.baseurl }}/assets/img/small-led-controller/demo.jpg)
 
-
 This is a small LED controller I built for Burning Man 2016 as I was tired from hand-soldering Arduinos, and wanted a more durable solution. There's nothing fancy here, but it's simple, cheap and works.
+<!--more-->
 
 ## Features
 
