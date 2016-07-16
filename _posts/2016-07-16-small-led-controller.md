@@ -9,7 +9,8 @@ excerpt_separator: <!--more-->
 ![LED Controller]({{ site.baseurl }}/assets/img/small-led-controller/controller.jpg)
 ![LED Controller being used]({{ site.baseurl }}/assets/img/small-led-controller/demo.jpg)
 
-This is a small LED controller I built for Burning Man 2016 as I was tired from hand-soldering Arduinos, and wanted a more durable solution. There's nothing fancy here, but it's simple, cheap and works.
+This is a small LED controller I built for Burning Man 2016 as I was tired from hand-soldering Arduinos, and wanted a more durable solution. There's nothing fancy here, but it's simple, cheap and gets the job done.
+
 <!--more-->
 
 ## Features
