@@ -2,6 +2,7 @@
 layout: post
 title:  "Small addressable LED strip controller"
 tags: [burning-man, electronics]
+date: 2016-07-16 02:00:00 -0700
 ---
 
 ## What is this?
