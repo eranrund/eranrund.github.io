@@ -6,8 +6,8 @@ date: 2016-07-16 02:00:00 -0700
 excerpt_separator: <!--more-->
 ---
 
-![LED Controller]({{ site.baseurl }}/assets/img/small-led-controller/controller.jpg)
-![LED Controller being used]({{ site.baseurl }}/assets/img/small-led-controller/demo.jpg)
+![LED Controller]({{ site.baseurl }}/assets/small-led-controller/controller.jpg)
+![LED Controller being used]({{ site.baseurl }}/assets/small-led-controller/demo.jpg)
 
 This is a small LED controller I built for Burning Man 2016 as I was tired from hand-soldering Arduinos, and wanted a more durable solution. There's nothing fancy here, but it's simple, cheap and gets the job done.
 
@@ -28,15 +28,15 @@ Thanks to [Sustainable Magic](http://www.sustainablemagic.org/) for letting me u
 ## Hardware
 
 
-![Bottom]({{ site.baseurl }}/assets/img/small-led-controller/inside1.jpg)
-![Top]({{ site.baseurl }}/assets/img/small-led-controller/inside2.jpg)
+![Bottom]({{ site.baseurl }}/assets/small-led-controller/inside1.jpg)
+![Top]({{ site.baseurl }}/assets/small-led-controller/inside2.jpg)
 
 The Eagle design files and code are available [here](https://github.com/eranrund/eagle/tree/master/led-keychain). It's a mess, but I'll get to cleaning it at some point. Maybe after the burn :)
 
 ### Design
-[Schematics]({{ site.baseurl }}/assets/img/small-led-controller/sch.png)
+[Schematics]({{ site.baseurl }}/assets/small-led-controller/sch.png)
 
-[Board]({{ site.baseurl }}/assets/img/small-led-controller/brd.png)
+[Board]({{ site.baseurl }}/assets/small-led-controller/brd.png)
 
 ### Shopping list
  * [PCB](https://oshpark.com/shared_projects/zXOWZoeE)
