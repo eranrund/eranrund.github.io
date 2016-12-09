@@ -58,7 +58,7 @@ Hardware:
 
  * The 4 roatary encoder/2 OLEDs UI board for the basic controller interface pictured above works. I will be manufacturing a few more of those in the near future.
  * The first revision of the Traktor controller channel strip is ready to be sent to the fab.
- * The first revision of a custom high-end DAC (PCM4104) evaluation board is ready to be sent to the fab.
+ * The first revision of a custom high-end DAC ([PCM4104](http://www.ti.com/product/PCM4104)) evaluation board is ready to be sent to the fab.
 
 
 None of this would have been possible without the following:
