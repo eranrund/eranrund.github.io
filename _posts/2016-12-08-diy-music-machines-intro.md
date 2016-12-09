@@ -61,7 +61,7 @@ Hardware:
  * The first revision of a custom high-end DAC ([PCM4104](http://www.ti.com/product/PCM4104)) evaluation board is ready to be sent to the fab.
 
 
-None of this would have been possible without the following:
+None of this would have been possible without the following (or would have been much more time consuming and annoying):
 
  * [ChibiOS](http://www.chibios.org/) - this open-source embedded operating system had proved to be rock solid and super friendly to use. I am used to the Embedded Software world being a complete disaster, but this project caught me off guard. Everything just works, is well documented, and has a great support community to the extent that I could Google my way around many issues I have encountered.
  * [uGFX](http://ugfx.io/) - this is the current graphics library I am using. Like ChibiOS, it Just Works, and have wasted very little of my time in trying to do what I wanted to do.
