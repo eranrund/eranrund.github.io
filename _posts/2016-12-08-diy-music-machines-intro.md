@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Music Machines - Introduction"
-tags: [electronics]
+tags: [electronics, phi]
 date: 2016-12-08 00:40:00 -0700
 excerpt_separator: <!--more-->
 ---
