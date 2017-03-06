@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Overengineered Swamp Cooler Board"
+description: "An overengineered swamp cooler board"
 tags: [burning-man, electronics]
 date: 2016-07-17 16:00:00 -0700
 excerpt_separator: <!--more-->
