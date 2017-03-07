@@ -69,3 +69,6 @@ None of this would have been possible without the following (or would have been 
 
 
 Note that the code is currently a huge mess, and as such I am keeping it in a private repository. Feel free to [contact](mailto:eran@rundste.in) me if you are interested in any of this.
+
+
+{% include phi-mailchimp.html %}

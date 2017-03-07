@@ -34,3 +34,6 @@ The software still needs work:
 
 
 Shoutouts to [MacroFab](https://macrofab.com/) for once again delivering a professionally made and assembled board for a very reasonable price, and to [Noisebridge](https://noisebridge.net/) for providing people like me with access to their space and tools. Their [laser cutter](https://www.noisebridge.net/wiki/Laser_Cutter) is a thing of beauty!
+
+
+{% include phi-mailchimp.html %}
